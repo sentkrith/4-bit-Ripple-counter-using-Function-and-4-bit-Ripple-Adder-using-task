@@ -21,6 +21,17 @@ Analyze the output waveforms in the simulation window, and verify that the corre
 7. Save and Document Results
 Capture screenshots of the waveform and save the simulation logs. These will be included in the lab report.
 
+# Block Diagram
+
+# 4-bit-Ripple-counter
+
+<img width="850" height="254" alt="image" src="https://github.com/user-attachments/assets/2fd787a7-cd8b-454f-8d9b-58e43e0ee534" />
+
+
+# 4-bit-Ripple-Adder
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/cb43b11e-8e5e-4d3b-b9c1-537ca5d05ee8" />
+
 # Verilog Code
 # 4 bit Ripple Adder using Task
 ```
